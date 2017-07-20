@@ -1,8 +1,9 @@
 ---
 title: API Reference
 
-language_tabs:
+language_tabs: # must be one of https://git.io/vQNgJ
   - php
+  - shell
   - ruby
   - javascript
 
